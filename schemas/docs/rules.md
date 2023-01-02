@@ -68,7 +68,23 @@ export default {
 The very inner title says: `title: 'Home Page Screenshot Feature 2 Section Text Content'`. **Content** is used here as an alias, instead of `Home Page Screenshot Feature 2 Section Text Text`, we can have `Home Page Screenshot Feature 2 Section Text Content`.
 
 
-**2. When it comes to the property **space** of a text Schema object, its title may also be **Spacing** in leiu. See example:**
+**2. Similar to exception 1, Content is to be used as an alias for situations where other keywords in the naming convention doesn\'t work, for example:**
+
+> ROOT_DIR/schema/shared/index.js
+```Javascript
+
+export default {
+    name: 'shared',
+    type: 'document',
+    title: 'Shared Contents'
+}
+
+```
+
+The title, instead of saying: `{ title: 'Shared Page' }` whereas `Shared Page` doesn't make sense, we can use `{ title: 'Shared Content' }` in lieu instead.
+
+
+**3. When it comes to the property **space** of a text Schema object, its title may also be **Spacing** in leiu. See example:**
 
 > ROOT_DIR/schemas/home/stats.js
 

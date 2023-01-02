@@ -13,8 +13,8 @@ import screenshotFeature3 from './screenshot-three'
   
 export default {
   name: 'home',
+  title: 'Home Page',
   type: 'document',
-  title: 'Home page contents',
   fields: [
     hero,
 
