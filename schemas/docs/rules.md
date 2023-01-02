@@ -2,7 +2,7 @@
 
 ## Rules: 
 
-1. the three required properties of a Schema, and its mandatory orders are : 
+**1. The three required properties of a Schema, and its mandatory orders are :** 
 
 ```Javascript
 
@@ -15,17 +15,20 @@
 
 ```
 
-2. Each Word of Title Must Be Capitalized, Just Like This Sentence :D.
+
+**2. Each Word of Title Must Be Capitalized, Just Like This Sentence :D.**
 
 
+
+**3. Indentation must be 2 spaces for all files**
 
 --- 
 
 ## Exceptions: 
 
-1. Anytime that there is two reoccuring key in both child and parent obj, when making decisions regarding naming conventions in `./SchemaStructure.md`, **Content** can be used as an alias. For example: 
+**1. Anytime that there is two reoccuring key in both child and parent obj, when making decisions regarding naming conventions in `./SchemaStructure.md`, **Content** can be used as an alias. For example:** 
 
-> screenshot-two.js
+> ROOT_DIR/schemas/home/screenshot-two.js
 
 ```Javascript
 
@@ -65,7 +68,8 @@ export default {
 The very inner title says: `title: 'Home Page Screenshot Feature 2 Section Text Content'`. **Content** is used here as an alias, instead of `Home Page Screenshot Feature 2 Section Text Text`, we can have `Home Page Screenshot Feature 2 Section Text Content`.
 
 
-2. When it comes to the property **space** of a text Schema object, its title may also be **Spacing** in leiu. See example: 
+**2. When it comes to the property **space** of a text Schema object, its title may also be **Spacing** in leiu. See example:**
+
 > ROOT_DIR/schemas/home/stats.js
 
 

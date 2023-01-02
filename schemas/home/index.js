@@ -12,24 +12,24 @@ import screenshotFeature2 from './screenshot-two'
 import screenshotFeature3 from './screenshot-three'
   
 export default {
-    name: 'home',
-    type: 'document',
-    title: 'Home page contents',
-    fields: [
-        hero,
+  name: 'home',
+  type: 'document',
+  title: 'Home page contents',
+  fields: [
+    hero,
 
-        tabFeature1,
-        tabFeature2,
-        tabFeature3,
+    tabFeature1,
+    tabFeature2,
+    tabFeature3,
 
-        screenshotFeature1,
-        screenshotFeature2,
-        screenshotFeature3,
+    screenshotFeature1,
+    screenshotFeature2,
+    screenshotFeature3,
 
-        process,
-        features,
-        stats,
-        testimonials,
-        companies
-    ]
+    process,
+    features,
+    stats,
+    testimonials,
+    companies
+  ]
 }
