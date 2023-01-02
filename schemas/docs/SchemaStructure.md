@@ -26,12 +26,13 @@ export default {
 > Each json block's schema  
 
 <table>
-    <tr>
-        <th> Sample target Block JSON file </th>
-        <th> Coresponding Schema js file </th>
-    </tr>
-    <tr>
-        <td>
+<tr>
+<th> Sample target Block JSON file </th>
+<th> Coresponding Schema js file </th>
+</tr>
+<tr>
+<td>
+
 ```Json
 {
     "container": {
@@ -102,7 +103,11 @@ export default {
     ]
 }
 ```
-        </td>
+
+</td>
+ 
+<td>
+        
 ```Javascript
 export default {
     name: 'pageName_sectionName',
@@ -288,11 +293,9 @@ export default {
     ]
 }
 ```
-        <td>
-        </td>
-    </tr>
+</td>
+</tr>
 </table>
-
 
 ---
 
