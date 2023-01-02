@@ -1,46 +1,35 @@
-import hero_schemas from './hero'
-
-const imageRadiusOptions = [
-    { title: '', value: '' },
-    { title: 'none', value: 'none' },
-    { title: 'small', value: 'sm' },
-    { title: 'default', value: 'default' },
-    { title: 'large', value: 'lg' },
-    { title: 'extra-large', value: 'xl' },
-    { title: 'xx-large', value: 'xxl' },
-  ]
+import hero from './hero'
+import stats from './stats'
+import process from './process'
+import features from './features'
+import companies from './companies'
+import testimonials from './testimonials'
+import tabFeature1 from './tab-feature-one'
+import tabFeature2 from './tab-feature-two'
+import tabFeature3 from './tab-feature-three'
+import screenshotFeature1 from './screenshot-one'
+import screenshotFeature2 from './screenshot-two'
+import screenshotFeature3 from './screenshot-three'
   
-  const imageShadowOptions = [
-    { title: '', value: '' },
-    { title: 'none', value: 'none' },
-    { title: 'default', value: 'default' },
-    { title: 'large', value: 'lg' },
-    { title: 'extra-large', value: 'xl' }
-  ]
-  
-  const imageBorderOptions = [
-    { title: '', value: '' },
-    { title: 'small', value: 'sm' },
-    { title: 'medium', value: 'md' },
-    { title: 'large', value: 'lg' },
-    { title: 'extra-large', value: 'xl' },
-    { title: 'xx-large', value: 'xxl' },
-  ]
-  
-  const imageEffectOptions = [
-    { title: '', value: '' },
-    { title: 'Fade In Down', value: 'fadeInDown' },
-    { title: 'Float', value: 'float' },
-    { title: 'Fade In Up', value: 'fadeInUp' },
-    { title: 'Float Faster', value: 'floatFaster' },
-  ]
-  
-
-  export default {
+export default {
     name: 'home',
     type: 'document',
     title: 'Home page contents',
     fields: [
-        hero_schemas
+        hero,
+
+        tabFeature1,
+        tabFeature2,
+        tabFeature3,
+
+        screenshotFeature1,
+        screenshotFeature2,
+        screenshotFeature3,
+
+        process,
+        features,
+        stats,
+        testimonials,
+        companies
     ]
-  }
+}

@@ -1,4 +1,4 @@
 // import all schemas from parent dir
-import homePage from './homePage'
+import home from './home'
 
-export const schemaTypes = [homePage]
+export const schemaTypes = [home]
