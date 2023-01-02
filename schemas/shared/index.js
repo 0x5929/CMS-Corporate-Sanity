@@ -7,7 +7,7 @@ import headerLight from './header-light'
 
 export default {
     name: 'shared',
-    title: 'Shared Contents',
+    title: 'Shared Content',
     type: 'document',
     fields: [
 

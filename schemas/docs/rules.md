@@ -76,7 +76,7 @@ The very inner title says: `title: 'Home Page Screenshot Feature 2 Section Text 
 export default {
     name: 'shared',
     type: 'document',
-    title: 'Shared Contents'
+    title: 'Shared Content'
 }
 
 ```

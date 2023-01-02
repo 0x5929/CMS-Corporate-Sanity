@@ -13,7 +13,7 @@ description: Schema structure standard for all schemas in this project
 ```Javascript
 export default {
     name: '<page-name>',
-    title: 'Page Name Title Contents'
+    title: 'Page Name Title Content'
     type: 'document',
     fields: [
         // matches each page's data content json blocks from frontend
