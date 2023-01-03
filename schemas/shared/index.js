@@ -1,8 +1,8 @@
 import header from './header'
-// import footer from './footer'
+import footer from './footer'
 // import contact from './contact'
 import headerLight from './header-light'
-// import advertisement from './advertisement'
+import advertisement from './advertisement'
 // import authentication from './authentication'
 
 export default {
@@ -11,14 +11,14 @@ export default {
     type: 'document',
     fields: [
 
-      // header, footer
+      /** HEADER, FOOTER */
       header,
-      // footer,
+      footer,
       headerLight,
       
-      // // modals
+      /** MODALS */
       // contact,
-      // advertisement,
+      advertisement,
       // authentication
     ]
 }
