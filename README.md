@@ -16,6 +16,6 @@ Now you can do the following things:
 # To Get Started
 
 1. `git clone <this-repo.git>`
-2. `cd CMSpCorporate-Sanity`
+2. `cd CMS-Corporate-Sanity`
 3. `yarn`
 4. `yarn dev`
