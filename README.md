@@ -19,3 +19,12 @@ Now you can do the following things:
 2. `cd CMS-Corporate-Sanity/`
 3. `yarn`
 4. `yarn dev`
+
+---
+
+# This project is now abandonned because of the following reasons
+
+1. sanity schemas are written differently if graphql is used.
+2. sanity schema changes are not automtically detected by graphql, needs redeploy workflow
+3. if using the strict schemas by graphql, the content editor UI may look clumpy because so many object fields are now at the top level, not needed at all!
+4. alternative was very easy to set up and use: `strapi` [strapi.io](https://strapi.io/)
