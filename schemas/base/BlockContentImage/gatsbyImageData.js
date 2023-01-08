@@ -2,7 +2,7 @@ export default {
     name: 'gatsbyImageData',
     title: 'Gatsby Image Data',
     type: 'object',
-    field: [
+    fields: [
         {
             name: 'layout',
             title: 'Layout',

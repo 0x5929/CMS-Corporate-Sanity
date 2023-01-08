@@ -1,8 +1,18 @@
 // import all schemas from parent dir
-import home from './home'
+import baseBlockContents from './base'
+import { home, about, services, pricing } from './pages'
 import shared from './shared'
 
+
 export const schemaTypes = [
+
+    // hoisting custom object/array types on top level
+    ...baseBlockContents,
+
+    // documents
     home,
-    shared
+    about,
+    services,
+    pricing,
+    shared,
 ]

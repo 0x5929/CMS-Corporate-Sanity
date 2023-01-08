@@ -58,7 +58,7 @@ export default {
         {
             name: 'collection',
             title: 'Collection',
-            type: 'Blockcontents'
+            type: 'BlockContents'
         },
         {
             name: 'buttons',

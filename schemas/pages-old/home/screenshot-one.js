@@ -1,4 +1,4 @@
-import { imageRadiusOptions, imageShadowOptions, imageBorderOptions } from '../options'
+import { imageRadiusOptions, imageShadowOptions, imageBorderOptions } from '../../options'
 
 export default {
     name: 'home_screenshotFeature1',

@@ -1,4 +1,4 @@
-import { imageRadiusOptions, imageShadowOptions, imageEffectOptions } from '../options'
+import { imageRadiusOptions, imageShadowOptions, imageEffectOptions } from '../../options'
 
 export default {
     name: 'home_tabFeature3',
