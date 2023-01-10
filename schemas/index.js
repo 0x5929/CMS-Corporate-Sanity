@@ -1,7 +1,7 @@
 // import all schemas from parent dir
+import shared from './shared'
 import baseBlockContents from './base'
 import { home, about, services, pricing } from './pages'
-import shared from './shared'
 
 
 export const schemaTypes = [

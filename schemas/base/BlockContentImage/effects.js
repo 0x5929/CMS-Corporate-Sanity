@@ -13,6 +13,7 @@ export default {
                     { title: 'Float', value: 'float' },
                     { title: 'Fade In Up', value: 'fadeInUp' },
                     { title: 'Float Faster', value: 'floatFaster' },
+                    { title: 'Fade In Bounce', value: 'fadeInBounce' },
                   ]
             },
         }
