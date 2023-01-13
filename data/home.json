@@ -1,0 +1,2128 @@
+{
+    "data": {
+      "Home": {
+        "nodes": [
+          {
+            "identifier": "companies",
+            "page": "site/index",
+            "container": null,
+            "text": null,
+            "images": null,
+            "avatar": null,
+            "icon": null,
+            "map": null,
+            "buttons": null,
+            "form": null,
+            "collection": [
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "AirBnB",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/441cc0d25314f6a1f1862af4ba26b467/company-airbnb.svg",
+                  "color": null,
+                  "bg": null,
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Amazon Web Services",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/7d779268867560777a254598d9cc6264/company-amazon-web-services.svg",
+                  "color": null,
+                  "bg": null,
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Cisco",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/23747306d8d8d16ccd7dee0d3eabdc6c/company-shopify.svg",
+                  "color": null,
+                  "bg": null,
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Confluence",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/051406149a81d0b1331add48081fa673/company-confluence.svg",
+                  "color": null,
+                  "bg": null,
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Linkedin",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/203fe45d963a0c0c83cb5c5c77a91f70/company-linkedin.svg",
+                  "color": null,
+                  "bg": null,
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              }
+            ]
+          },
+          {
+            "identifier": "features",
+            "page": "site/index",
+            "container": null,
+            "text": null,
+            "images": null,
+            "avatar": null,
+            "icon": null,
+            "map": null,
+            "buttons": null,
+            "form": null,
+            "collection": [
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Market Research",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h4"
+                  },
+                  {
+                    "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut sime labore et dolore magna aliqua.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/d131fcc78dd163c55e1b095583041683/bx-dollar-circle.svg",
+                  "color": "#FF9655",
+                  "bg": "#FFF2DD",
+                  "size": null
+                },
+                "map": null,
+                "buttons": [
+                  {
+                    "type": "PAGE",
+                    "text": "Learn More   ➜",
+                    "link": " ",
+                    "target": null,
+                    "variant": "links.normal",
+                    "width": null,
+                    "bg": null,
+                    "icon": null,
+                    "collection": null,
+                    "buttons": null
+                  }
+                ],
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Strategy & Direction",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h4"
+                  },
+                  {
+                    "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut sime labore et dolore magna aliqua.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/7e85a6139ac95cb42c434e82bf5dfbd5/bx-brain.svg",
+                  "color": "#F87488",
+                  "bg": "#FEE9E3",
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": {
+                  "action": null,
+                  "multiStep": null,
+                  "text": null,
+                  "fields": null,
+                  "buttons": [
+                    {
+                      "type": "PAGE",
+                      "text": "Learn More   ➜",
+                      "link": " ",
+                      "target": null,
+                      "variant": "links.normal",
+                      "width": null,
+                      "bg": null,
+                      "icon": null
+                    }
+                  ]
+                },
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Brand Marketing",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h4"
+                  },
+                  {
+                    "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut sime labore et dolore magna aliqua.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/f288688f5eef9dca75a2160dc106677c/bx-hive.svg",
+                  "color": "#6DC9C8",
+                  "bg": "#E5FCF3",
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": {
+                  "action": null,
+                  "multiStep": null,
+                  "text": null,
+                  "fields": null,
+                  "buttons": [
+                    {
+                      "type": "PAGE",
+                      "text": "Learn More   ➜\"",
+                      "link": " ",
+                      "target": null,
+                      "variant": "links.normal",
+                      "width": null,
+                      "bg": null,
+                      "icon": null
+                    }
+                  ]
+                },
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Smart Scaling",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h4"
+                  },
+                  {
+                    "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut sime labore et dolore magna aliqua.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/0d7e538816cf1cdbc7b6c5fcee0066dc/bx-bar-chart-alt.svg",
+                  "color": "#B887F8",
+                  "bg": "#F5E7FE",
+                  "size": null
+                },
+                "map": null,
+                "buttons": [
+                  {
+                    "type": "PAGE",
+                    "text": "Learn More   ➜\"",
+                    "link": " ",
+                    "target": null,
+                    "variant": "links.normal",
+                    "width": null,
+                    "bg": null,
+                    "icon": null,
+                    "collection": null,
+                    "buttons": null
+                  }
+                ],
+                "form": null,
+                "collection": null
+              }
+            ]
+          },
+          {
+            "identifier": "stats",
+            "page": "site/index",
+            "container": {
+              "variant": " ",
+              "bg": null,
+              "link": null
+            },
+            "text": [
+              {
+                "text": "Don't Just Take our Word for it!",
+                "textGroup": null,
+                "color": null,
+                "space": 3,
+                "variant": "h2"
+              },
+              {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "medium"
+              },
+              {
+                "text": "Sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet.",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "medium"
+              }
+            ],
+            "images": null,
+            "avatar": null,
+            "icon": null,
+            "map": null,
+            "buttons": null,
+            "form": null,
+            "collection": [
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "570",
+                    "textGroup": null,
+                    "color": "betaLight",
+                    "space": null,
+                    "variant": "h1"
+                  },
+                  {
+                    "text": "Active Users",
+                    "textGroup": null,
+                    "color": "omegaDark",
+                    "space": null,
+                    "variant": "h5"
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "1300",
+                    "textGroup": null,
+                    "color": "beta",
+                    "space": null,
+                    "variant": "h1"
+                  },
+                  {
+                    "text": "Downloads",
+                    "textGroup": null,
+                    "color": "omegaDark",
+                    "space": null,
+                    "variant": "h5"
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "420",
+                    "textGroup": null,
+                    "color": "betaDark",
+                    "space": null,
+                    "variant": "h1"
+                  },
+                  {
+                    "text": "Positive Feedback",
+                    "textGroup": null,
+                    "color": "omegaDark",
+                    "space": null,
+                    "variant": "h5"
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "810",
+                    "textGroup": null,
+                    "color": "betaDarker",
+                    "space": null,
+                    "variant": "h1"
+                  },
+                  {
+                    "text": "A++ Rating",
+                    "textGroup": null,
+                    "color": "omegaDark",
+                    "space": null,
+                    "variant": "h5"
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              }
+            ]
+          },
+          {
+            "identifier": "testimonials",
+            "page": "site/index",
+            "container": null,
+            "text": [
+              {
+                "text": "Grow Your Business and Join Our Happy Users",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "h2"
+              },
+              {
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "medium"
+              }
+            ],
+            "images": null,
+            "avatar": null,
+            "icon": null,
+            "map": null,
+            "buttons": [
+              {
+                "type": "MODAL",
+                "text": "Get Started Now",
+                "link": "Get Started Now",
+                "target": null,
+                "variant": "gradient",
+                "width": null,
+                "bg": null,
+                "icon": null,
+                "collection": null,
+                "buttons": null
+              }
+            ],
+            "form": null,
+            "collection": [
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "John Doe",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "CEO of CoolCompany",
+                    "textGroup": null,
+                    "color": "omegaDark",
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": {
+                  "alt": "alt text",
+                  "effects": null,
+                  "radius": null,
+                  "shadow": null,
+                  "border": null,
+                  "position": null,
+                  "width": null,
+                  "maxWidth": null,
+                  "link": null,
+                  "src": {
+                    "extension": "png",
+                    "publicURL": "/static/6aa2358dc7ff31b306e4b34e65e899d9/john-doe.png",
+                    "childImageSharp": {
+                      "gatsbyImageData": {
+                        "placeholder": {
+                          "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='150'%20height='200'%20viewBox='0%200%20150%20200'%20preserveAspectRatio='none'%3e%3cpath%20d='M71%202l-8%203-7%202c-4%200-5%201-8%203-1%202-3%203-5%203-3%200-10%205-12%209-6%208-10%2024-8%2027l1%205c1%202%202%205%204%206%203%204%206%2013%206%2022%201%207%204%2014%208%2015l3%205c0%203%202%206%203%208%202%203%203%2012%202%2016%200%203%200%203-5%202-5%200-5%200-6%203-1%204-4%2010-6%2010l-4%202-7%204-6%203-10%205-6%203v42h151v-20l-1-23c0-3-1-4-15-9-6-2-9-3-9-5-1-6-1-6-9-10l-12-5-4-1v-7l2-12a113%20113%200%20003-16l3-2c5-2%207-8%206-14-2-10-1-14%202-26v-9c-1-1-2-3-1-6v-5l-7-7c-3-4-7-7-8-7l-2-2c0-2-3-5-5-5l-2-1-14-7-7%201'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e"
+                        },
+                        "images": {
+                          "fallback": {
+                            "src": "/static/6aa2358dc7ff31b306e4b34e65e899d9/3d520/john-doe.png",
+                            "srcSet": "/static/6aa2358dc7ff31b306e4b34e65e899d9/d865a/john-doe.png 75w,\n/static/6aa2358dc7ff31b306e4b34e65e899d9/3d520/john-doe.png 150w",
+                            "sizes": "(min-width: 150px) 150px, 100vw"
+                          },
+                          "sources": [
+                            {
+                              "srcSet": "/static/6aa2358dc7ff31b306e4b34e65e899d9/24217/john-doe.webp 75w,\n/static/6aa2358dc7ff31b306e4b34e65e899d9/62a26/john-doe.webp 150w",
+                              "type": "image/webp",
+                              "sizes": "(min-width: 150px) 150px, 100vw"
+                            }
+                          ]
+                        },
+                        "width": 150,
+                        "height": 200
+                      }
+                    }
+                  }
+                },
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Jane Smith",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Developer at AwesomeCo",
+                    "textGroup": null,
+                    "color": "omegaDark",
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": {
+                  "alt": "alt text",
+                  "effects": null,
+                  "radius": null,
+                  "shadow": null,
+                  "border": null,
+                  "position": null,
+                  "width": null,
+                  "maxWidth": null,
+                  "link": null,
+                  "src": {
+                    "extension": "png",
+                    "publicURL": "/static/09449a0bd07ebca1ca1e8916239033e5/jane-smith.png",
+                    "childImageSharp": {
+                      "gatsbyImageData": {
+                        "placeholder": {
+                          "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='150'%20height='176'%20viewBox='0%200%20150%20176'%20preserveAspectRatio='none'%3e%3cpath%20d='M64%204C50%208%2037%2025%2030%2051c-2%206-2%206%200%206%204%201%202%206-5%2012-6%206-10%2012-10%2017s4%2012%207%2013c2%200%202%200-2%205-12%2012-14%2016-15%2029l-3%2014-2%2017v12h137v-19c-2-44-2-44-8-74l-3-18c-3-22-9-37-20-49C98%207%2093%205%2083%204H64'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e"
+                        },
+                        "images": {
+                          "fallback": {
+                            "src": "/static/09449a0bd07ebca1ca1e8916239033e5/b8f55/jane-smith.png",
+                            "srcSet": "/static/09449a0bd07ebca1ca1e8916239033e5/754af/jane-smith.png 75w,\n/static/09449a0bd07ebca1ca1e8916239033e5/b8f55/jane-smith.png 150w",
+                            "sizes": "(min-width: 150px) 150px, 100vw"
+                          },
+                          "sources": [
+                            {
+                              "srcSet": "/static/09449a0bd07ebca1ca1e8916239033e5/98a1e/jane-smith.webp 75w,\n/static/09449a0bd07ebca1ca1e8916239033e5/fc1bc/jane-smith.webp 150w",
+                              "type": "image/webp",
+                              "sizes": "(min-width: 150px) 150px, 100vw"
+                            }
+                          ]
+                        },
+                        "width": 150,
+                        "height": 176
+                      }
+                    }
+                  }
+                },
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Sarah Doe",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Marketing Manager",
+                    "textGroup": null,
+                    "color": "omegaDark",
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": {
+                  "alt": "alt text",
+                  "effects": null,
+                  "radius": null,
+                  "shadow": null,
+                  "border": null,
+                  "position": null,
+                  "width": null,
+                  "maxWidth": null,
+                  "link": null,
+                  "src": {
+                    "extension": "png",
+                    "publicURL": "/static/d02387083f5e29aab904769cf3f4dbfc/sarah-doe.png",
+                    "childImageSharp": {
+                      "gatsbyImageData": {
+                        "placeholder": {
+                          "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='150'%20height='187'%20viewBox='0%200%20150%20187'%20preserveAspectRatio='none'%3e%3cpath%20d='M66%208c-2%202-3%202-3%201h-1l-4%202c-7-1-16%208-26%2027-12%2023-15%2070-4%2083l2%203-5%204-10%209-7%206c-3%200-4%2015-3%2023%201%204%201%204-2%204H0v7l1%208c1%203%20149%203%20149%200v-70l-3-4c-3-5-10-10-15-11h-4v-8c0-10-4-28-11-47-8-21-21-34-37-36l-8-1h-6'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e"
+                        },
+                        "images": {
+                          "fallback": {
+                            "src": "/static/d02387083f5e29aab904769cf3f4dbfc/b7ca6/sarah-doe.png",
+                            "srcSet": "/static/d02387083f5e29aab904769cf3f4dbfc/ce8bd/sarah-doe.png 75w,\n/static/d02387083f5e29aab904769cf3f4dbfc/b7ca6/sarah-doe.png 150w",
+                            "sizes": "(min-width: 150px) 150px, 100vw"
+                          },
+                          "sources": [
+                            {
+                              "srcSet": "/static/d02387083f5e29aab904769cf3f4dbfc/d9209/sarah-doe.webp 75w,\n/static/d02387083f5e29aab904769cf3f4dbfc/a79dd/sarah-doe.webp 150w",
+                              "type": "image/webp",
+                              "sizes": "(min-width: 150px) 150px, 100vw"
+                            }
+                          ]
+                        },
+                        "width": 150,
+                        "height": 187
+                      }
+                    }
+                  }
+                },
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Steve Grant",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Freelancer Developer",
+                    "textGroup": null,
+                    "color": "omegaDark",
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": {
+                  "alt": "alt text",
+                  "effects": null,
+                  "radius": null,
+                  "shadow": null,
+                  "border": null,
+                  "position": null,
+                  "width": null,
+                  "maxWidth": null,
+                  "link": null,
+                  "src": {
+                    "extension": "png",
+                    "publicURL": "/static/2f9dcdfb0c3d2d87f14e24d38bdea975/steve-grant.png",
+                    "childImageSharp": {
+                      "gatsbyImageData": {
+                        "placeholder": {
+                          "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='150'%20height='168'%20viewBox='0%200%20150%20168'%20preserveAspectRatio='none'%3e%3cpath%20d='M73%203c-2%201-4%202-5%201l-2%201-3%201-2%201-2%201-6%204c-3%203-4%203-4%200-1-2-1-2-1%201l-3%209c-3%206-3%206-3%2016%200%208%200%2011%202%2012l2%207c1%206%202%209%205%2012l2%204%202%207c2%204%202%205%201%208l-3%207c-3%207-6%208-19%2012-16%205-16%205-16%208%200%202-2%203-9%207l-8%205-1%2020v21h151v-45l-3-3-10-6-7-4c0-1-4-3-9-4-17-6-17-6-20-12-4-7-4-8-1-11l4-8%203-6c2-2%204-8%204-12l1-4c2-2%203-7%204-17%200-6%200-8-2-13-7-13-32-25-42-20'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e"
+                        },
+                        "images": {
+                          "fallback": {
+                            "src": "/static/2f9dcdfb0c3d2d87f14e24d38bdea975/c4c0b/steve-grant.png",
+                            "srcSet": "/static/2f9dcdfb0c3d2d87f14e24d38bdea975/c3f8d/steve-grant.png 75w,\n/static/2f9dcdfb0c3d2d87f14e24d38bdea975/c4c0b/steve-grant.png 150w",
+                            "sizes": "(min-width: 150px) 150px, 100vw"
+                          },
+                          "sources": [
+                            {
+                              "srcSet": "/static/2f9dcdfb0c3d2d87f14e24d38bdea975/34f6d/steve-grant.webp 75w,\n/static/2f9dcdfb0c3d2d87f14e24d38bdea975/db678/steve-grant.webp 150w",
+                              "type": "image/webp",
+                              "sizes": "(min-width: 150px) 150px, 100vw"
+                            }
+                          ]
+                        },
+                        "width": 150,
+                        "height": 168
+                      }
+                    }
+                  }
+                },
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Florrie Jacobs",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Senior Fashion Designer",
+                    "textGroup": null,
+                    "color": "omegaDark",
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Sed commodo, est quis maximus fermentum, massa ipsum euismod neque, in varius risus tellus quis lacus. Sed ac bibendum odio.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": {
+                  "alt": "alt text",
+                  "effects": null,
+                  "radius": null,
+                  "shadow": null,
+                  "border": null,
+                  "position": null,
+                  "width": null,
+                  "maxWidth": null,
+                  "link": null,
+                  "src": {
+                    "extension": "png",
+                    "publicURL": "/static/3db2150b9587d53025cd661f818b54e7/florrie-jacobs.png",
+                    "childImageSharp": {
+                      "gatsbyImageData": {
+                        "placeholder": {
+                          "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='150'%20height='176'%20viewBox='0%200%20150%20176'%20preserveAspectRatio='none'%3e%3cpath%20d='M69%206L57%207c-7%201-10%201-11%203v6c1%200%200%204-4%2012-5%2010-7%2017-11%2038-4%2018-3%2045%202%2053s6%2022%202%2040l-3%2015c-1%202%203%202%2059%202h59v-54l-4-4-9-8c-12-5-16-13-19-29-2-13-10-40-14-49-5-9-11-17-18-20-6-3-5-4%204-4h8L81%206H69'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e"
+                        },
+                        "images": {
+                          "fallback": {
+                            "src": "/static/3db2150b9587d53025cd661f818b54e7/b8f55/florrie-jacobs.png",
+                            "srcSet": "/static/3db2150b9587d53025cd661f818b54e7/754af/florrie-jacobs.png 75w,\n/static/3db2150b9587d53025cd661f818b54e7/b8f55/florrie-jacobs.png 150w",
+                            "sizes": "(min-width: 150px) 150px, 100vw"
+                          },
+                          "sources": [
+                            {
+                              "srcSet": "/static/3db2150b9587d53025cd661f818b54e7/98a1e/florrie-jacobs.webp 75w,\n/static/3db2150b9587d53025cd661f818b54e7/fc1bc/florrie-jacobs.webp 150w",
+                              "type": "image/webp",
+                              "sizes": "(min-width: 150px) 150px, 100vw"
+                            }
+                          ]
+                        },
+                        "width": 150,
+                        "height": 176
+                      }
+                    }
+                  }
+                },
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              }
+            ]
+          },
+          {
+            "identifier": "screenshot-one",
+            "page": "site/index",
+            "container": null,
+            "text": [
+              {
+                "text": "Advanced Customer Service Platform",
+                "textGroup": null,
+                "color": "beta",
+                "space": null,
+                "variant": "h4"
+              },
+              {
+                "text": "Platform Overview",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "h2"
+              },
+              {
+                "text": "Hassle-free platform and specialists to help you with your marketing campaigns.",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "medium"
+              }
+            ],
+            "images": [
+              {
+                "alt": "alt text",
+                "effects": [
+                  "fadeInDown"
+                ],
+                "radius": "lg",
+                "shadow": "default",
+                "border": "lg",
+                "position": null,
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/870874ff9fb0d0e9a22546ba9af3bf99/hero.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1100'%20height='688'%20viewBox='0%200%201100%20688'%20preserveAspectRatio='none'/%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/870874ff9fb0d0e9a22546ba9af3bf99/8a400/hero.png",
+                          "srcSet": "/static/870874ff9fb0d0e9a22546ba9af3bf99/a77ce/hero.png 550w,\n/static/870874ff9fb0d0e9a22546ba9af3bf99/8a400/hero.png 1100w",
+                          "sizes": "(min-width: 1100px) 1100px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/870874ff9fb0d0e9a22546ba9af3bf99/e1d53/hero.webp 550w,\n/static/870874ff9fb0d0e9a22546ba9af3bf99/2bdb3/hero.webp 1100w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 1100px) 1100px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 1100,
+                      "height": 688
+                    }
+                  }
+                }
+              }
+            ],
+            "avatar": null,
+            "icon": null,
+            "map": null,
+            "buttons": null,
+            "form": null,
+            "collection": null
+          },
+          {
+            "identifier": "screenshot-two",
+            "page": "site/index",
+            "container": null,
+            "text": [
+              {
+                "text": "Advanced Customer Service Platform",
+                "textGroup": null,
+                "color": "alpha",
+                "space": null,
+                "variant": "h4"
+              },
+              {
+                "text": "Acquisition Panel Screenshot",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "h2"
+              },
+              {
+                "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "medium"
+              }
+            ],
+            "images": [
+              {
+                "alt": "alt text",
+                "effects": [
+                  "fadeInDown"
+                ],
+                "radius": "lg",
+                "shadow": "default",
+                "border": "lg",
+                "position": null,
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/870874ff9fb0d0e9a22546ba9af3bf99/hero.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1100'%20height='688'%20viewBox='0%200%201100%20688'%20preserveAspectRatio='none'/%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/870874ff9fb0d0e9a22546ba9af3bf99/8a400/hero.png",
+                          "srcSet": "/static/870874ff9fb0d0e9a22546ba9af3bf99/a77ce/hero.png 550w,\n/static/870874ff9fb0d0e9a22546ba9af3bf99/8a400/hero.png 1100w",
+                          "sizes": "(min-width: 1100px) 1100px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/870874ff9fb0d0e9a22546ba9af3bf99/e1d53/hero.webp 550w,\n/static/870874ff9fb0d0e9a22546ba9af3bf99/2bdb3/hero.webp 1100w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 1100px) 1100px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 1100,
+                      "height": 688
+                    }
+                  }
+                }
+              }
+            ],
+            "avatar": null,
+            "icon": null,
+            "map": null,
+            "buttons": null,
+            "form": null,
+            "collection": null
+          },
+          {
+            "identifier": "screenshot-three",
+            "page": "site/index",
+            "container": null,
+            "text": [
+              {
+                "text": "Advanced Features",
+                "textGroup": null,
+                "color": "beta",
+                "space": null,
+                "variant": "h4"
+              },
+              {
+                "text": "Scheduling Panel Overview",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "h2"
+              },
+              {
+                "text": "Lorem ipsum dolor sit amet, consectetur magna aliqua. Eaque ipsa quae ab illo.",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "medium"
+              }
+            ],
+            "images": [
+              {
+                "alt": "alt text",
+                "effects": [
+                  "fadeInDown"
+                ],
+                "radius": "lg",
+                "shadow": "default",
+                "border": "lg",
+                "position": null,
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/870874ff9fb0d0e9a22546ba9af3bf99/hero.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1100'%20height='688'%20viewBox='0%200%201100%20688'%20preserveAspectRatio='none'/%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/870874ff9fb0d0e9a22546ba9af3bf99/8a400/hero.png",
+                          "srcSet": "/static/870874ff9fb0d0e9a22546ba9af3bf99/a77ce/hero.png 550w,\n/static/870874ff9fb0d0e9a22546ba9af3bf99/8a400/hero.png 1100w",
+                          "sizes": "(min-width: 1100px) 1100px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/870874ff9fb0d0e9a22546ba9af3bf99/e1d53/hero.webp 550w,\n/static/870874ff9fb0d0e9a22546ba9af3bf99/2bdb3/hero.webp 1100w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 1100px) 1100px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 1100,
+                      "height": 688
+                    }
+                  }
+                }
+              }
+            ],
+            "avatar": null,
+            "icon": null,
+            "map": null,
+            "buttons": null,
+            "form": null,
+            "collection": null
+          },
+          {
+            "identifier": "process",
+            "page": "site/index",
+            "container": null,
+            "text": [
+              {
+                "text": "Acceleration Process to Grow Your Business",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "h2"
+              },
+              {
+                "text": "We help our clients achieve tangible, high-impact results. Lorem ipsum dolor sit amet",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "medium"
+              }
+            ],
+            "images": null,
+            "avatar": null,
+            "icon": null,
+            "map": null,
+            "buttons": [
+              {
+                "type": "MODAL",
+                "text": "Schedule a Live Demo",
+                "link": "contact",
+                "target": null,
+                "variant": "gradient",
+                "width": null,
+                "bg": null,
+                "icon": null,
+                "collection": null,
+                "buttons": null
+              }
+            ],
+            "form": null,
+            "collection": [
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Market Research",
+                    "textGroup": null,
+                    "color": "h5",
+                    "space": null,
+                    "variant": null
+                  },
+                  {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut sime.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Strategy & Direction",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut sime.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Brand Marketing",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut sime.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Smart Scaling",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut sime.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              }
+            ]
+          },
+          {
+            "identifier": "hero",
+            "page": "site/index",
+            "container": null,
+            "text": [
+              {
+                "text": "Advanced Platform",
+                "textGroup": null,
+                "color": "omegaDarker",
+                "space": null,
+                "variant": "h4"
+              },
+              {
+                "text": "Take your team collaboration to the next level",
+                "textGroup": null,
+                "color": "white",
+                "space": null,
+                "variant": "h1"
+              },
+              {
+                "text": "Hassle-free platform and specialists to help you with your marketing campaigns.",
+                "textGroup": null,
+                "color": "omegaDarker",
+                "space": null,
+                "variant": "medium"
+              }
+            ],
+            "images": [
+              {
+                "alt": "alt text",
+                "effects": [
+                  "fadeInDown"
+                ],
+                "radius": "lg",
+                "shadow": "default",
+                "border": "lg",
+                "position": null,
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/e3ca1104b01738c591d2f548c18cafc7/hero-small.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='655'%20height='410'%20viewBox='0%200%20655%20410'%20preserveAspectRatio='none'/%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/e3ca1104b01738c591d2f548c18cafc7/9413d/hero-small.png",
+                          "srcSet": "/static/e3ca1104b01738c591d2f548c18cafc7/6d10e/hero-small.png 328w,\n/static/e3ca1104b01738c591d2f548c18cafc7/9413d/hero-small.png 655w",
+                          "sizes": "(min-width: 655px) 655px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/e3ca1104b01738c591d2f548c18cafc7/da7ba/hero-small.webp 328w,\n/static/e3ca1104b01738c591d2f548c18cafc7/76d86/hero-small.webp 655w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 655px) 655px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 655,
+                      "height": 410
+                    }
+                  }
+                }
+              }
+            ],
+            "avatar": null,
+            "icon": null,
+            "map": null,
+            "buttons": null,
+            "form": {
+              "action": null,
+              "multiStep": null,
+              "text": null,
+              "fields": null,
+              "buttons": [
+                {
+                  "type": "MODAL",
+                  "text": "Get Started Now",
+                  "link": "authentication",
+                  "target": null,
+                  "variant": "white",
+                  "width": null,
+                  "bg": null,
+                  "icon": null
+                }
+              ]
+            },
+            "collection": null
+          },
+          {
+            "identifier": "tab-feature-one",
+            "page": "site/index",
+            "container": null,
+            "text": [
+              {
+                "text": "Innovative Solutions",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "h4"
+              },
+              {
+                "text": "**Innovative Features** Integrated for Teams",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "h2"
+              },
+              {
+                "text": "Lorem ipsum dolor sit amet, consectetur magna aliqua. Eaque ipsa quae ab illo inventore veritatis. Nemo enim ipsam voluptatem voluptas.",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "medium"
+              }
+            ],
+            "images": [
+              {
+                "alt": "alt text",
+                "effects": null,
+                "radius": "lg",
+                "shadow": "default",
+                "border": null,
+                "position": null,
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/1782c2565f1b69b7c7b57d68b96c31f3/tab-feature-one.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='510'%20height='356'%20viewBox='0%200%20510%20356'%20preserveAspectRatio='none'/%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/1782c2565f1b69b7c7b57d68b96c31f3/e9d0a/tab-feature-one.png",
+                          "srcSet": "/static/1782c2565f1b69b7c7b57d68b96c31f3/9eefa/tab-feature-one.png 255w,\n/static/1782c2565f1b69b7c7b57d68b96c31f3/e9d0a/tab-feature-one.png 510w",
+                          "sizes": "(min-width: 510px) 510px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/1782c2565f1b69b7c7b57d68b96c31f3/9fb1c/tab-feature-one.webp 255w,\n/static/1782c2565f1b69b7c7b57d68b96c31f3/3ee8f/tab-feature-one.webp 510w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 510px) 510px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 510,
+                      "height": 356
+                    }
+                  }
+                }
+              },
+              {
+                "alt": "alt text",
+                "effects": [
+                  "fadeInDown",
+                  "float"
+                ],
+                "radius": null,
+                "shadow": null,
+                "border": null,
+                "position": {
+                  "top": null,
+                  "bottom": "-15%",
+                  "left": "10%",
+                  "right": null
+                },
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/dccd2134b044ec78ef729103d53dc223/tab-feature-one-overlay-two.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='307'%20height='139'%20viewBox='0%200%20307%20139'%20preserveAspectRatio='none'%3e%3cpath%20d='M8%203C1%208%201%206%201%2069c0%2065%200%2063%208%2067%205%202%205%202%20145%202%20157%200%20145%201%20150-7l2-3V9l-4-4-4-3-143-1H11L8%203'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/dccd2134b044ec78ef729103d53dc223/f20b4/tab-feature-one-overlay-two.png",
+                          "srcSet": "/static/dccd2134b044ec78ef729103d53dc223/89a22/tab-feature-one-overlay-two.png 154w,\n/static/dccd2134b044ec78ef729103d53dc223/f20b4/tab-feature-one-overlay-two.png 307w",
+                          "sizes": "(min-width: 307px) 307px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/dccd2134b044ec78ef729103d53dc223/2d07e/tab-feature-one-overlay-two.webp 154w,\n/static/dccd2134b044ec78ef729103d53dc223/49f4d/tab-feature-one-overlay-two.webp 307w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 307px) 307px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 307,
+                      "height": 139
+                    }
+                  }
+                }
+              },
+              {
+                "alt": "alt text",
+                "effects": [
+                  "fadeInUp",
+                  "floatFaster"
+                ],
+                "radius": "lg",
+                "shadow": "default",
+                "border": null,
+                "position": {
+                  "top": "-20%",
+                  "bottom": null,
+                  "left": null,
+                  "right": "17.5%"
+                },
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/5895ff8c2cb12cb7de4223aeb1699540/tab-feature-one-overlay-one.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='153'%20height='139'%20viewBox='0%200%20153%20139'%20preserveAspectRatio='none'/%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/5895ff8c2cb12cb7de4223aeb1699540/abd45/tab-feature-one-overlay-one.png",
+                          "srcSet": "/static/5895ff8c2cb12cb7de4223aeb1699540/9300d/tab-feature-one-overlay-one.png 77w,\n/static/5895ff8c2cb12cb7de4223aeb1699540/abd45/tab-feature-one-overlay-one.png 153w",
+                          "sizes": "(min-width: 153px) 153px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/5895ff8c2cb12cb7de4223aeb1699540/bcf81/tab-feature-one-overlay-one.webp 77w,\n/static/5895ff8c2cb12cb7de4223aeb1699540/4488a/tab-feature-one-overlay-one.webp 153w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 153px) 153px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": null,
+                      "height": null
+                    }
+                  }
+                }
+              }
+            ],
+            "avatar": null,
+            "icon": null,
+            "map": null,
+            "buttons": null,
+            "form": null,
+            "collection": [
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Analytics",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/757a0d5d5a10c43fe1a5e98ee0945454/bx-analyse.svg",
+                  "color": "beta",
+                  "bg": null,
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Consultation",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/6cbb7d0ac2e887b7c31d0c3a627b32d4/bx-calendar-check.svg",
+                  "color": "beta",
+                  "bg": null,
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Reports",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/0d7e538816cf1cdbc7b6c5fcee0066dc/bx-bar-chart-alt.svg",
+                  "color": "beta",
+                  "bg": null,
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Live Support",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/d132bd80d635b9231bb39dfe0f2d763e/bx-chat.svg",
+                  "color": "beta",
+                  "bg": null,
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              }
+            ]
+          },
+          {
+            "identifier": "tab-feature-two",
+            "page": "site/index",
+            "container": null,
+            "text": [
+              {
+                "text": "GROW YOUR BUSINESS",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "h4"
+              },
+              {
+                "text": "Best Marketing Service for **Technological Era**",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "h2"
+              },
+              {
+                "text": "Target your audience based on their interests. Lorem ipsum dolor sit amet, consectetur magna aliqua.",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "medium"
+              }
+            ],
+            "images": [
+              {
+                "alt": "alt text",
+                "effects": null,
+                "radius": "lg",
+                "shadow": "default",
+                "border": null,
+                "position": null,
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/904e7db818211f7fcc2c880017e51a7a/tab-feature-two.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='550'%20height='349'%20viewBox='0%200%20550%20349'%20preserveAspectRatio='none'/%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/904e7db818211f7fcc2c880017e51a7a/ae88d/tab-feature-two.png",
+                          "srcSet": "/static/904e7db818211f7fcc2c880017e51a7a/dd8a2/tab-feature-two.png 275w,\n/static/904e7db818211f7fcc2c880017e51a7a/ae88d/tab-feature-two.png 550w",
+                          "sizes": "(min-width: 550px) 550px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/904e7db818211f7fcc2c880017e51a7a/f1a3d/tab-feature-two.webp 275w,\n/static/904e7db818211f7fcc2c880017e51a7a/24c9e/tab-feature-two.webp 550w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 550px) 550px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 550,
+                      "height": 349
+                    }
+                  }
+                }
+              },
+              {
+                "alt": "alt text",
+                "effects": [
+                  "fadeInDown",
+                  "floatFaster"
+                ],
+                "radius": "lg",
+                "shadow": "default",
+                "border": null,
+                "position": {
+                  "top": "-30%",
+                  "bottom": null,
+                  "left": null,
+                  "right": "5%"
+                },
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/16eee7dbffb602f9634c53dfa436e4a3/tab-feature-two-overlay-one.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='135'%20height='177'%20viewBox='0%200%20135%20177'%20preserveAspectRatio='none'/%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/16eee7dbffb602f9634c53dfa436e4a3/da20a/tab-feature-two-overlay-one.png",
+                          "srcSet": "/static/16eee7dbffb602f9634c53dfa436e4a3/45194/tab-feature-two-overlay-one.png 68w,\n/static/16eee7dbffb602f9634c53dfa436e4a3/da20a/tab-feature-two-overlay-one.png 135w",
+                          "sizes": "(min-width: 135px) 135px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/16eee7dbffb602f9634c53dfa436e4a3/6f578/tab-feature-two-overlay-one.webp 68w,\n/static/16eee7dbffb602f9634c53dfa436e4a3/a4cfa/tab-feature-two-overlay-one.webp 135w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 135px) 135px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 135,
+                      "height": 177
+                    }
+                  }
+                }
+              },
+              {
+                "alt": "alt text",
+                "effects": [
+                  "fadeInBounce",
+                  "float"
+                ],
+                "radius": null,
+                "shadow": null,
+                "border": null,
+                "position": {
+                  "top": "-15%",
+                  "bottom": null,
+                  "left": "10%",
+                  "right": null
+                },
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/c091df6f3d5f17aee01068dbe0a30290/tab-feature-two-overlay-two.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='125'%20height='125'%20viewBox='0%200%20125%20125'%20preserveAspectRatio='none'%3e%3cpath%20d='M49%202C16%209-5%2042%201%2076c9%2040%2054%2061%2091%2041%2016-8%2032-31%2032-45l1-3%201-8c0-5%200-7-1-6s-1%201-1-2l-2-8C113%2014%2081-5%2049%202m1%2011c-22%206-39%2027-39%2050%200%2032%2032%2058%2063%2050%2028-8%2045-36%2039-62-8-28-36-46-63-38m2%2010c-43%2011-40%2073%204%2080a41%2041%200%2010-4-80'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/c091df6f3d5f17aee01068dbe0a30290/3afb0/tab-feature-two-overlay-two.png",
+                          "srcSet": "/static/c091df6f3d5f17aee01068dbe0a30290/3a70d/tab-feature-two-overlay-two.png 63w,\n/static/c091df6f3d5f17aee01068dbe0a30290/3afb0/tab-feature-two-overlay-two.png 125w",
+                          "sizes": "(min-width: 125px) 125px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/c091df6f3d5f17aee01068dbe0a30290/4327e/tab-feature-two-overlay-two.webp 63w,\n/static/c091df6f3d5f17aee01068dbe0a30290/78b45/tab-feature-two-overlay-two.webp 125w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 125px) 125px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 125,
+                      "height": 125
+                    }
+                  }
+                }
+              },
+              {
+                "alt": "alt text",
+                "effects": [
+                  "fadeInBounce",
+                  "floatFaster"
+                ],
+                "radius": null,
+                "shadow": null,
+                "border": null,
+                "position": {
+                  "top": null,
+                  "bottom": "-10%",
+                  "left": "20%",
+                  "right": null
+                },
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/18e487e27af897e6554861b8e18b605f/tab-feature-two-overlay-three.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='125'%20height='125'%20viewBox='0%200%20125%20125'%20preserveAspectRatio='none'%3e%3cpath%20d='M49%202a62%2062%200%201068%2091c7-13%2011-32%208-38l-2-8C116%2015%2082-6%2049%202m1%2011C23%2020%206%2047%2013%2074c4%2020%2021%2036%2042%2039%2030%205%2059-20%2059-50%200-33-32-59-64-50m2%2010c-42%2011-40%2071%202%2080a41%2041%200%2010-2-80'%20fill='%23d3d3d3'%20fill-rule='evenodd'/%3e%3c/svg%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/18e487e27af897e6554861b8e18b605f/3afb0/tab-feature-two-overlay-three.png",
+                          "srcSet": "/static/18e487e27af897e6554861b8e18b605f/3a70d/tab-feature-two-overlay-three.png 63w,\n/static/18e487e27af897e6554861b8e18b605f/3afb0/tab-feature-two-overlay-three.png 125w",
+                          "sizes": "(min-width: 125px) 125px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/18e487e27af897e6554861b8e18b605f/4327e/tab-feature-two-overlay-three.webp 63w,\n/static/18e487e27af897e6554861b8e18b605f/78b45/tab-feature-two-overlay-three.webp 125w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 125px) 125px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 125,
+                      "height": 125
+                    }
+                  }
+                }
+              }
+            ],
+            "avatar": null,
+            "icon": null,
+            "map": null,
+            "buttons": null,
+            "form": null,
+            "collection": [
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "15+",
+                    "textGroup": null,
+                    "color": "beta",
+                    "space": 1,
+                    "variant": "h2"
+                  },
+                  {
+                    "text": "Advanced Panel",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h6"
+                  },
+                  {
+                    "text": "Tempor incididunt ut labore et dolore magna aliqua.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "10+",
+                    "textGroup": null,
+                    "color": "beta",
+                    "space": 1,
+                    "variant": "h2"
+                  },
+                  {
+                    "text": "Report Metrics",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h6"
+                  },
+                  {
+                    "text": "Tempor incididunt ut labore et dolore magna aliqua.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": null,
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              }
+            ]
+          },
+          {
+            "identifier": "tab-feature-three",
+            "page": "site/index",
+            "container": null,
+            "text": [
+              {
+                "text": "Versatile Platform",
+                "textGroup": null,
+                "color": "h4",
+                "space": null,
+                "variant": null
+              },
+              {
+                "text": "**Versatile System** for All Software Startups",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "h2"
+              },
+              {
+                "text": "Target your audience based on their interests. Lorem ipsum dolor sit amet, consectetur magna aliqua.",
+                "textGroup": null,
+                "color": null,
+                "space": null,
+                "variant": "medium"
+              }
+            ],
+            "images": [
+              {
+                "alt": "alt text",
+                "effects": null,
+                "radius": "lg",
+                "shadow": "default",
+                "border": null,
+                "position": null,
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/c741e7b6ada1f81e0de9cdb9d56407bf/tab-feature-three.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='550'%20height='333'%20viewBox='0%200%20550%20333'%20preserveAspectRatio='none'/%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/c741e7b6ada1f81e0de9cdb9d56407bf/d6448/tab-feature-three.png",
+                          "srcSet": "/static/c741e7b6ada1f81e0de9cdb9d56407bf/941fc/tab-feature-three.png 275w,\n/static/c741e7b6ada1f81e0de9cdb9d56407bf/d6448/tab-feature-three.png 550w",
+                          "sizes": "(min-width: 550px) 550px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/c741e7b6ada1f81e0de9cdb9d56407bf/be23a/tab-feature-three.webp 275w,\n/static/c741e7b6ada1f81e0de9cdb9d56407bf/1e1d0/tab-feature-three.webp 550w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 550px) 550px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 550,
+                      "height": 333
+                    }
+                  }
+                }
+              },
+              {
+                "alt": "alt text",
+                "effects": [
+                  "fadeInDown",
+                  "float"
+                ],
+                "radius": "lg",
+                "shadow": "default",
+                "border": null,
+                "position": {
+                  "top": "-35%",
+                  "bottom": null,
+                  "left": "25%",
+                  "right": null
+                },
+                "width": null,
+                "maxWidth": null,
+                "link": null,
+                "src": {
+                  "extension": "png",
+                  "publicURL": "/static/ba77ab1757160317f8f3e3da178837ad/tab-feature-three-overlay-one.png",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "placeholder": {
+                        "fallback": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='135'%20height='175'%20viewBox='0%200%20135%20175'%20preserveAspectRatio='none'/%3e"
+                      },
+                      "images": {
+                        "fallback": {
+                          "src": "/static/ba77ab1757160317f8f3e3da178837ad/634b4/tab-feature-three-overlay-one.png",
+                          "srcSet": "/static/ba77ab1757160317f8f3e3da178837ad/e2a08/tab-feature-three-overlay-one.png 68w,\n/static/ba77ab1757160317f8f3e3da178837ad/634b4/tab-feature-three-overlay-one.png 135w",
+                          "sizes": "(min-width: 135px) 135px, 100vw"
+                        },
+                        "sources": [
+                          {
+                            "srcSet": "/static/ba77ab1757160317f8f3e3da178837ad/47e01/tab-feature-three-overlay-one.webp 68w,\n/static/ba77ab1757160317f8f3e3da178837ad/11efc/tab-feature-three-overlay-one.webp 135w",
+                            "type": "image/webp",
+                            "sizes": "(min-width: 135px) 135px, 100vw"
+                          }
+                        ]
+                      },
+                      "width": 135,
+                      "height": 175
+                    }
+                  }
+                }
+              }
+            ],
+            "avatar": null,
+            "icon": null,
+            "map": null,
+            "buttons": null,
+            "form": null,
+            "collection": [
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Automatic interest detection",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Tempor incididunt ut labore et dolore magna aliqua consectetur.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/757a0d5d5a10c43fe1a5e98ee0945454/bx-analyse.svg",
+                  "color": "white",
+                  "bg": "beta",
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              },
+              {
+                "identifier": null,
+                "page": null,
+                "container": null,
+                "text": [
+                  {
+                    "text": "Daily email reports",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": "h5"
+                  },
+                  {
+                    "text": "Tempor incididunt ut labore et dolore magna aliqua consectetur.",
+                    "textGroup": null,
+                    "color": null,
+                    "space": null,
+                    "variant": null
+                  }
+                ],
+                "images": null,
+                "avatar": null,
+                "icon": {
+                  "src": "/static/37e0d319f93ebb980c2673dc015c2e8d/bx-directions.svg",
+                  "color": "white",
+                  "bg": "alpha",
+                  "size": null
+                },
+                "map": null,
+                "buttons": null,
+                "form": null,
+                "collection": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }

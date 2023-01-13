@@ -14,6 +14,7 @@ export default {
                     { title: 'Fade In Up', value: 'fadeInUp' },
                     { title: 'Float Faster', value: 'floatFaster' },
                     { title: 'Fade In Bounce', value: 'fadeInBounce' },
+                    { title: 'Fade In Left', value: 'fadeInLeft' }
                   ]
             },
         }

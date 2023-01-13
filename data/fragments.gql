@@ -1,0 +1,169 @@
+# fragments used to query sanity data
+fragment BlockContent on BlockContent {
+	...BlockContentNode
+  collection {
+    ...BlockContentNode
+    collection {
+      ...BlockContentNode
+    }
+  }
+}
+
+fragment BlockContentNode on BlockContent {
+  identifier
+  page
+  container {
+    ...BlockContentContainer
+  }
+  text {
+    ...BlockContentText
+  }
+  images {
+    ...BlockContentImage
+  }
+  avatar {
+    ...BlockContentImage
+  }
+  icon {
+    ...BlockContentIcon
+  }
+  map {
+    ...BlockContentMap
+  }
+  buttons {
+    ...BlockContentButtons
+  }
+  form {
+    ...BlockContentForm
+  }
+}
+
+fragment BlockContentContainer on BlockContentContainer {
+  variant
+  bg
+  link
+}
+
+fragment BlockContentText on BlockContentText {
+  text
+  textGroup
+  color
+  space
+  variant
+}
+
+fragment BlockContentImage on BlockContentImage {
+        alt
+        effects
+        radius
+        shadow
+        border
+        position {
+          top
+          bottom
+          left
+          right
+        }
+        width
+        maxWidth
+        link
+        src {
+          extension
+          publicURL
+          childImageSharp{
+            gatsbyImageData {
+              layout
+              placeholder {
+                fallback
+              }
+              images {
+                fallback {
+                  src,
+                  srcSet,
+                  sizes
+                }
+                sources {
+                  srcSet,
+                  type,
+                  sizes
+                }
+              }
+              width,
+              height
+            }
+          }
+        }
+      }
+
+fragment BlockContentIcon on BlockContentIcon {
+  src
+  color
+  bg
+  size
+}
+
+fragment BlockContentMap on BlockContentMap {
+	lat
+  lng
+  zoom
+}
+
+fragment BlockContentButtons on BlockContentButton {
+  ...BlockContentButton
+  collection {
+    container {
+      ...BlockContentContainer
+    }
+    buttons {
+      ...BlockContentButton
+      buttons {
+        ...BlockContentButton
+      }
+    }
+  }
+  buttons {
+    ...BlockContentButton
+  }
+}
+
+fragment BlockContentButton on BlockContentButton {
+  type
+  text
+  link
+  target
+  variant
+  width
+  bg
+  icon {
+    ...BlockContentIcon
+  }
+}
+
+fragment BlockContentForm on BlockContentForm {
+  action
+  multiStep
+  text {
+    ...BlockContentText
+  }
+  fields {
+    ...BlockContentFormField
+  }
+  buttons {
+    ...BlockContentButton
+  }
+}
+
+fragment BlockContentFormField on BlockContentFormField {
+  identifier
+  type
+  value
+  compact
+  required
+  placeholder {
+    ...BlockContentText
+  }
+  icon {
+    ...BlockContentIcon
+  }
+}
+
