@@ -27,6 +27,16 @@ Now you can do the following things:
 
 1. `set up Github Action to include an API deploy token` [more info](https://www.sanity.io/docs/deployment#59a23cd85193).
 2. `sanity deploy`
+3. create `Netlify` build hook: 
+    1. Go into `Netlify` panel
+    2. click on `Site settings`
+    3. find `Build and deploy`
+    4. click `Add build hook` inside the `Build hooks` section
+    5. enter a name, and connect to a branch to build
+    6. save the hook URL
+
+4.  go to sanity io panel > API settings > webhooks
+5. add in the necessary info
 
 ---
 
