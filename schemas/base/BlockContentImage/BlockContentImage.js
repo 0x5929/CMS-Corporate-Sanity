@@ -1,13 +1,8 @@
 export default {
     name: 'BlockContentImage',
     title: 'Block Content Image',
-    type: 'object',
+    type: 'image',
     fields: [
-        {
-            name: 'src',
-            title: 'Source',
-            type: 'BlockContentImageSrc'
-        },
         {
             name: 'position',
             title: 'Position',
@@ -51,7 +46,7 @@ export default {
         {
             name: 'link',
             title: 'Link',
-            type: 'string'
+            type: 'BlockContentButton'
         }
     ]
 }

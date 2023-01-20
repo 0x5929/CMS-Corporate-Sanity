@@ -1,13 +1,8 @@
 export default {
     name: 'BlockContentIcon',
     title: 'Block Content Icon',
-    type: 'object',
+    type: 'image',
     fields: [
-        {
-            name: 'src',
-            title: 'Source',
-            type: 'string'
-        },
         {
             name: 'color',
             title: 'Color',
