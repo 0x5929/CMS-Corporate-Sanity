@@ -25,7 +25,8 @@ Now you can do the following things:
 
 # To Deploy
 
-1. `sanity deploy`
+1. `set up Github Action to include an API deploy token` [more info](https://www.sanity.io/docs/deployment#59a23cd85193).
+2. `sanity deploy`
 
 ---
 
