@@ -24,3 +24,6 @@
 
 # Typescript
 *.tsbuildinfo
+
+# tar gz backup files
+*.tar.gz

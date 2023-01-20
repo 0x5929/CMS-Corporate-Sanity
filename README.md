@@ -22,9 +22,15 @@ Now you can do the following things:
 
 ---
 
-# This project is now abandonned because of the following reasons
 
-1. sanity schemas are written differently if graphql is used.
-2. sanity schema changes are not automtically detected by graphql, needs redeploy workflow
-3. if using the strict schemas by graphql, the content editor UI may look clumpy because so many object fields are now at the top level, not needed at all!
-4. alternative was very easy to set up and use: `strapi` [strapi.io](https://strapi.io/)
+# To Deploy
+
+1. `sanity deploy`
+
+---
+
+### TODOs: 
+
+1. create options for button color, radius, shadow, and other props
+2. test and implement more friendlier identifiers for each data point
+3. get rid of sanity studio middle column, each only has one entry anyways
