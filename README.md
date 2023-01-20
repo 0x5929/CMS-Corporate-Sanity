@@ -35,3 +35,8 @@ Now you can do the following things:
 1. create options for button color, radius, shadow, and other props
 2. test and implement more friendlier identifiers for each data point
 3. get rid of sanity studio middle column, each only has one entry anyways
+4. figure out how to do live previews with gatsby. See issue below.
+
+#### Issues: 
+
+1. Each content change takes about 2 minutes for `Netlify` to rebuild page (could be solved by live preview)
